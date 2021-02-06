@@ -1,0 +1,15 @@
+{
+    "CoverageInfo": {
+      "PolicyCoverage": {
+        "Deductible": {
+            "CoverageDefault": "OneThousand",
+            "TwoHundredFifty": "1",
+                  "FiveHundred": "5",
+                  "OneThousand": "4",
+                  "TwoThousand": "5",
+                  "TwentyFiveHundred": "6",
+                  "FiveThousand": "f"
+        }
+      }
+    }
+  }
